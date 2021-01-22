@@ -15,7 +15,7 @@ Take text modifiers for example. They follow some seemingly arbirtary set of rul
 - Bold and italic both use `*` or `_` where the number of symbols denotes the modifier.
 - Strikethrough uses exactly two `~`.
 - Monospace uses an any number of `` ` ``.
-- Underlined is not supported.
+- Underline is not supported.
 
 Now some of you might be sitting there thinking "Why didn't you just use an existing parser?". Had one existed that was written in pure Lua and didn't output HTML then I would have.
 
