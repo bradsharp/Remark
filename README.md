@@ -63,3 +63,6 @@ Symbol | Type
 `!` | Media
 `$` | Currency
 `:` | Date
+
+## Footnote
+Yes, I realize the irony that this is written in Markdown. When GitHub supports Remark you can be sure I'll update it.
