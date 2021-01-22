@@ -54,7 +54,7 @@ With Remark, you are able to control the indentation of your document. Starting 
 
 ### References
 
-References are always formatted as `Symbol[Information](Source)` in Remark which makes them almost identical to Markdown. The key difference is that you can define any symbol to act as a custom reference type allowing you to extend Remark to fit your needs.
+References are always formatted as `Symbol[Format](Source)` in Remark which makes them almost identical to Markdown. The key difference is that you can define any symbol to act as a custom reference type allowing you to extend Remark to fit your needs.
 
 By default, Remark maps each symbol onto the following reference type:
 
