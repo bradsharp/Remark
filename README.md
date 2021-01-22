@@ -29,7 +29,7 @@ Remark has a few simple goals:
 - No ambiguity in the syntax.
 - Backwards compatible with existing markdown parsers.
 - Extensible with other features.
-- 
+- Easy to use for non-HTML usecases.
 
 When I say backwards compatible, I mean mostly backwards compatible. It would be difficult to achieve the other goals without some changes to the syntax. However, it should be possible to create a document in Remark that looks almost identical when formatted with a Markdown parser.
 
